@@ -1,5 +1,3 @@
 # Ignore the specific file
-data/frequency_bigramdictionary_en_243_342.txt
-data/frequency_dictionary_en_82_765.txt
 data/mock_movie_data_small.json
 data/mock_movie_data.json
