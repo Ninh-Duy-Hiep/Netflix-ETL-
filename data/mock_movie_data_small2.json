@@ -1,0 +1,92 @@
+[
+    {
+        "keyword": "hello girl",
+        "search_time": "2022-08-21 03:26:42",
+        "user_id": 1929,
+        "account_type": "premium",
+        "device": "desktop",
+        "location": "UK",
+        "movie_name": "Movie_6"
+    },
+    {
+        "keyword": "king dom",
+        "search_time": "2021-08-05 06:51:05",
+        "user_id": 5697,
+        "account_type": "free",
+        "device": "desktop",
+        "location": "US",
+        "movie_name": "Movie_10"
+    },
+    {
+        "keyword": "hello girl",
+        "search_time": "2021-02-27 12:08:59",
+        "user_id": 4608,
+        "account_type": "family",
+        "device": "tablet",
+        "location": "India",
+        "movie_name": "Movie_6"
+    },
+    {
+        "keyword": "hello girl",
+        "search_time": "2021-03-03 04:11:09",
+        "user_id": 6098,
+        "account_type": "premium",
+        "device": "tablet",
+        "location": "UK",
+        "movie_name": "Movie_5"
+    },
+    {
+        "keyword": "king dom",
+        "search_time": "2021-10-03 14:03:56",
+        "user_id": 4364,
+        "account_type": "family",
+        "device": "mobile",
+        "location": "US",
+        "movie_name": "Movie_5"
+    },
+    {
+        "keyword": "hello boy",
+        "search_time": "2021-05-27 07:16:27",
+        "user_id": 3091,
+        "account_type": "free",
+        "device": "desktop",
+        "location": "US",
+        "movie_name": "Movie_8"
+    },
+    {
+        "keyword": "king dom",
+        "search_time": "2021-05-05 23:19:46",
+        "user_id": 3915,
+        "account_type": "family",
+        "device": "desktop",
+        "location": "US",
+        "movie_name": "Movie_6"
+    },
+    {
+        "keyword": "hello girl",
+        "search_time": "2022-09-30 14:47:01",
+        "user_id": 5983,
+        "account_type": "premium",
+        "device": "mobile",
+        "location": "UK",
+        "movie_name": "Movie_6"
+    },
+    {
+        "keyword": "hello boy",
+        "search_time": "2022-12-25 18:56:01",
+        "user_id": 9913,
+        "account_type": "family",
+        "device": "desktop",
+        "location": "India",
+        "movie_name": "Movie_8"
+    },
+    {
+        "keyword": "king dom",
+        "search_time": "2021-04-09 20:54:35",
+        "user_id": 7540,
+        "account_type": "family",
+        "device": "mobile",
+        "location": "US",
+        "movie_name": "Movie_7"
+    }
+]

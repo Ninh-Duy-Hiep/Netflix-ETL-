@@ -3,15 +3,16 @@ import time
 import json
 
 # Các giá trị mẫu
-keywords = ["   movie love  ", "@@@series", "Come@dy", "draMak", "Thriller", "ACTION12", "rooomantic", "TItaN", "school", "12345", "a"]
-account_types = ["free", "premium", "family", "student"]
-devices = ["mobile", "tablet", "desktop", "smart_tv"]
-locations = ["US", "UK", "India", "Vietnam", "Germany", "France"]
-# movie_names = [
-#     "Inception", "The Dark Knight", "Interstellar", "Parasite", "The Matrix",
-#     "Breaking Bad", "The Crown", "Stranger Things", "The Witcher", "Money Heist"
-# ]
-movie_names = [f"Movie_{i}" for i in range(1, 101)] 
+# keywords = ["   movie love  ", "@@@series", "Come@dy", "draMak", "Thriller", "ACTION12", "rooomantic", "TItaN", "school", "12345", "a"]
+# account_types = ["free", "premium", "family", "student"]
+# devices = ["mobile", "tablet", "desktop", "smart_tv"]
+# locations = ["US", "UK", "India", "Vietnam", "Germany", "France"]
+
+keywords = ["king dom", "hello boy" , "hello girl"]
+account_types = ["free", "premium", "family"]
+devices = ["mobile", "tablet", "desktop"]
+locations = ["US", "UK", "India"]
+movie_names = [f"Movie_{i}" for i in range(1, 11)] 
 # Hàm tạo dữ liệu
 def generate_data(num_records=1000):
     data = []
@@ -29,8 +30,8 @@ def generate_data(num_records=1000):
     return data
 
 # Lưu dữ liệu vào file JSON
-data = generate_data(100)  
-with open("./data/mock_movie_data_small.json", "w") as file:
+data = generate_data(10)  
+with open("./data/mock_movie_data_small2.json", "w") as file:
     json.dump(data, file, indent=4)
 
 print("Dữ liệu giả đã được tạo thành công!")
